@@ -1,13 +1,11 @@
 Decision Tree
 ================
-April Sang
-24/11/2018
 
-### In this analysis, I am using a data set named salaries.csv that contains data on professors and their salaries.
+### In this analysis, I use a dataset named salaries.csv that contains data on professors and their salaries.
 
 #### \-
 
-#### You will find several ways of producing decision tree with various interfaces below.
+#### You will find several ways of producing a decision tree with various interfaces below.
 
 ``` r
 salary <- read.csv('salaries.csv', header = T, sep = ",")
